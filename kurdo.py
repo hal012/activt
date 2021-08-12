@@ -2,7 +2,7 @@ import os,sys,subprocess
 subprocess.getoutput("pip install requests")
 import requests,sys,os,time
 #BY MOELSHAFEY
-elshafey = '@bahamhex'
+elshafey = '@barhamhex'
 pss=input("\033[1;37m [~]\033[1;35mENTER PASSWORD :\033[1;33m")
 if pss ==elshafey:
 	pass
